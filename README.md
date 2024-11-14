@@ -1,5 +1,8 @@
 # GitHubStarMover
 
+**Read this in other languages: [English](README_EN.md), [中文](README.md).**
+
+
 **GitHubStarMover** 是一款用于将一个 GitHub 账户中的 Star 仓库迁移到另一个 GitHub 账户的 Python 工具。通过使用 GitHub API，该工具能够自动化地将源账户的所有 Star 仓库同步到目标账户，无需手动操作，简化了迁移过程。
 
 ## 功能
